@@ -1,14 +1,12 @@
-# 👋 Salut, moi c’est Tom
+# 👋 Hi, I'm Tom
 
-Développeur orienté **backend**, **web** et **systèmes**, avec un intérêt particulier pour  
-la **performance**, la **maintenabilité** et l’**architecture logicielle**.
+A developer focused on **backend**, **web**, and **systems**, with a strong interest in performance, maintainability, and software architecture.
 
-Je travaille aussi bien sur des applications web que sur des environnements techniques
-(infrastructure, virtualisation, APIs, systèmes distribués).
+I work on both **web applications** and **technical environments** such as infrastructure, virtualization, APIs, and distributed systems.
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub statistics
 
 ![](./profile-summary-card-output/apprentice/0-profile-details.svg)
 ![](./profile-summary-card-output/apprentice/3-stats.svg)
@@ -16,9 +14,9 @@ Je travaille aussi bien sur des applications web que sur des environnements tech
 
 ---
 
-## 🧠 Compétences techniques
+## 🧠 Technical skills
 
-### 🧩 Langages
+### 🧩 Languages
 <p>
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
@@ -40,11 +38,11 @@ Je travaille aussi bien sur des applications web que sur des environnements tech
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
 </p>
 
-- Vue.js, Laravel et Node.js : **utilisation confirmée en projets concrets**
+- Vue.js, Laravel and Node.js : **proven use in concrete projects**
 
 ---
 
-### 🗄️ Bases de données
+### 🗄️ Database
 <p>
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" />
@@ -52,12 +50,12 @@ Je travaille aussi bien sur des applications web que sur des environnements tech
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
 </p>
 
-- Bases relationnelles & NoSQL  
-- Modélisation, requêtes, optimisation basique
+- Relational and NoSQL Databases
+- Modeling, queries, basic optimization
 
 ---
 
-### 🛠️ Outils & infrastructure
+### 🛠️ Tools & infrastructure
 <p>
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   <img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" />
@@ -72,22 +70,23 @@ Je travaille aussi bien sur des applications web que sur des environnements tech
 
 ---
 
-### 🔐 Autres compétences
-- Sécurité informatique (bases, bonnes pratiques)
-- Conception et consommation d’**APIs REST**
-- Virtualisation & environnements isolés
-- Travail en environnement serveur / headless
+### 🔐 Other skills
+- Information security (fundamentals, best practices)
+- Design and consumption of REST APIs
+- Virtualization & isolated environments
+- Working in a server / headless environment
 
 ---
 
-## 🚀 Objectifs
-- Concevoir des systèmes **robustes et maintenables**
-- Approfondir les architectures backend et distribuées
-- Monter en compétence sur l’infrastructure et la sécurité
+## 🚀 Objectives
+- Design robust and maintainable systems
+- Deepen expertise in backend and distributed architectures
+- Improve skills in infrastructure and security
 
 ---
 
 ## 📫 Contact
 - GitHub : **@xTOUKAM**
+- Mail : **support@warble.fr**
 
-⭐ *N’hésite pas à parcourir mes repositories.*
+⭐ *Feel free to browse my repositories.*
